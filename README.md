@@ -33,15 +33,15 @@ The outer `while` loop runs at most `(E-V-2)` times. The polling of each `Edge` 
 
 #### A small fully connected graph and the output of our algorithm:
 
-![Fully Connected Graph](C:\Users\calviem\OneDrive - Rose-Hulman Institute of Technology\Desktop\fully_connected.png)
+![Fully Connected Graph](https://github.com/rhit-calviem/MST_prim-s-algorithm/blob/main/images/fully_connected.PNG)
 
 #### A small sparse graph and the output of our algorithm:
 
-![Sparse Graph](C:\Users\calviem\OneDrive - Rose-Hulman Institute of Technology\Desktop\sparse_graph1.png)
+![Sparse Graph](https://github.com/rhit-calviem/MST_prim-s-algorithm/blob/main/images/sparse_graph1.PNG)
 
 #### A small sparse graph with a few more connections and the output of our algorithm:
 
-![Sparse Graph with More Connections](C:\Users\calviem\OneDrive - Rose-Hulman Institute of Technology\Desktop\sparse_graph2.png)
+![Sparse Graph with More Connections](https://github.com/rhit-calviem/MST_prim-s-algorithm/blob/main/images/sparse_graph2.PNG)
 
 ### Discoveries
 
